@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEA,OACE,YAAa,CACd,GAGC,eAAgB","file":"main.b84999ec.chunk.css","sourcesContent":["// styles go here\n\niframe {\n  display: none;\n}\n\nul {\n  list-style: none;\n}\n"]}
